@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Chandra</h1>
 <h3 align="center">Everyth!ng needs an upgrade!</h3>
 
-- 🌱 I’m currently learning **application developement using flutter,Java,Python,Html5,CSS3,Bootstrap,ReactJS,Angular,Nodejs**
+- 👨‍💻 Full Stack Developer | MERN Stack & Flutter Enthusiast
+
+Hi! I'm a passionate developer with a keen interest in building scalable web and mobile applications. My expertise lies in the MERN stack (MongoDB, Express, React, Node.js) for creating dynamic, high-performance web applications, and Flutter for crafting beautiful, responsive mobile apps.
+
+I enjoy exploring new technologies, contributing to open-source projects, and continuously improving my skills. Let's connect and build something amazing together!
 
 - 👨‍💻 All of my projects are available at [Yash-36](Yash-36)
 
