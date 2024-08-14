@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Chandra</h1>
 <h3 align="center">Everyth!ng needs an upgrade!</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-36&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-36" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Yash-36" alt="Yash-36" /></a> </p>
+
 - 👨‍💻 Full Stack Developer | MERN Stack & Flutter Enthusiast
 
 Hi! I'm a passionate software developer with a keen interest in building scalable web and mobile applications. My expertise lies in the MERN stack (MongoDB, Express, React, Node.js) for creating dynamic, high-performance web applications, and Flutter for crafting beautiful, responsive mobile apps.
